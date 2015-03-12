@@ -1,0 +1,4 @@
+# ignore case
+*.zip
+*.a
+target/*
